@@ -1,0 +1,5 @@
+Git
+node.js
+Angular CLI
+VS Code
+	Extensão: Angular Extension Pack
