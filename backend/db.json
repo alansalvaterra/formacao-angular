@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Bora para a Teia!",
+      "autoria": "Alan Salvaterra",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Funcionou!",
+      "autoria": "Salvaterra",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Vai dar bom!",
+      "autoria": "Alan",
+      "modelo": "modelo3"
+    }
+  ]
+}

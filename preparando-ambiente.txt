@@ -3,3 +3,12 @@ node.js
 Angular CLI
 VS Code
 	Extensão: Angular Extension Pack
+JSON Server (Para simular a API REST)
+	npm i json-server@0.17.4
+
+
+  Resources
+  http://localhost:3000/pensamentos
+
+  Home
+  http://localhost:3000
