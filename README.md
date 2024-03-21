@@ -2,18 +2,27 @@
 
 Aprenda a trabalhar com o Framework criado e mantido pelo Google.
 
-#1 Explore as bases do Angular
-### Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD
-### Angular 14: evoluindo a aplicação
-### Angular: formulários orientados a templates
+<br>
 
-#2 Gerencie o ciclo de vida de componentes e fluxo de dados reativos com a biblioteca RxJS
-### Angular: ciclo de vida
-### RxJS e Angular: programando de forma reativa
+## Explore as bases do Angular
+### 
+- [ ] Curso 1: Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD
+- [ ] Curso 2: Angular 14: evoluindo a aplicação
+- [ ] Curso 3: Angular: formulários orientados a templates
 
-#3 Melhore a experiência do usuário com animações e interações atrativas no Angular
-### Angular: torne sua aplicação interativa e personalizada com animações
-### Angular: aprimore suas técnicas de animação e crie interfaces ainda mais atraentes
+<br>
 
-#4 Acessibilidade no Angular: aprimorando formulários, modais e rotas
-### Acessibilidade no Angular: aprimorando formulários, modais e rotas
+## Gerencie o ciclo de vida de componentes e fluxo de dados reativos com a biblioteca RxJS
+- [ ] Curso 4: Angular: ciclo de vida
+- [ ] Curso 5: RxJS e Angular: programando de forma reativa
+
+<br>
+
+## Melhore a experiência do usuário com animações e interações atrativas no Angular
+- [ ] Curso 6: Angular: torne sua aplicação interativa e personalizada com animações
+- [ ] Curso 7: Angular: aprimore suas técnicas de animação e crie interfaces ainda mais atraentes
+
+<br>
+
+## Acessibilidade no Angular: aprimorando formulários, modais e rotas
+- [ ] Curso 8: Acessibilidade no Angular: aprimorando formulários, modais e rotas
