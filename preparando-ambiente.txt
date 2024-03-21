@@ -12,3 +12,7 @@ JSON Server (Para simular a API REST)
 
   Home
   http://localhost:3000
+
+
+ng server --rodar servidor web
+npm start --simular api

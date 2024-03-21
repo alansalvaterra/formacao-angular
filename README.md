@@ -6,7 +6,7 @@ Aprenda a trabalhar com o Framework criado e mantido pelo Google.
 
 ## Explore as bases do Angular
 ### 
-- [ ] Curso 1: Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD
+- [x] Curso 1: Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD
 - [ ] Curso 2: Angular 14: evoluindo a aplicação
 - [ ] Curso 3: Angular: formulários orientados a templates
 
